@@ -39,4 +39,4 @@ The server uses nodemon as a development tool to monitor file changes and automa
 
 ## Conclusion
 
-This Node.js server project is an excellent learning tool for beginners who want to understand how a server works, how to handle different requests and responses, and improve their understanding of Node.js, npm, and JavaScript core concepts. The project uses various core Node.js modules and third-party npm packages, making it an excellent example of how to use these tools to build a functional server.[EOF]
+This Node.js server project is an excellent learning tool for beginners who want to understand how a server works, how to handle different requests and responses, and improve their understanding of Node.js, npm, and JavaScript core concepts. The project uses various core Node.js modules and third-party npm packages, making it an excellent example of how to use these tools to build a functional server.
