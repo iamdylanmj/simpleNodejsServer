@@ -1,0 +1,11 @@
+What this project is all about ?
+
+This is a very simple web server that servers some files such as html, json data, images instead of serving simple hello world message.
+
+whenever a client making requests, the server is going to respond with some html pages
+
+and each and everytime a cliet make a request, the server is going to take a record in a text file with a requested date and time, and additionally it is going to write unique ID for each request
+
+you can check the devDependancies and dependacies to see the npm packages that has been used in this project.
+
+this is a very simple web server that respond according to client request, before we jump into learing framework such as express js, understanding these core concepts will help you to learn about those technologies fast and efficently.

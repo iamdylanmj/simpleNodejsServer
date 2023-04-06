@@ -1,0 +1,19 @@
+{
+    "name": "John",
+    "age": 25,
+    "email": "john@example.com",
+    "phone": "(555) 555-5555",
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+    },
+    "interests": ["reading", "hiking", "cooking"],
+    "education": {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "university": "University of California, Los Angeles"
+    }
+ }
+ 
